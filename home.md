@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /bal/
 title: "Welcome"
 author_profile: true
 classes: wide
