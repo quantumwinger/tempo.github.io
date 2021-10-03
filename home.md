@@ -3,11 +3,9 @@ permalink: /
 title: "Welcome"
 author_profile: true
 classes: wide
-header:
-  image: /assets/images/rallarvegen-crop2.jpg
 ---
 
-I am an assistant professor of economics at the University of Oregon. My research fields are environmental and resource economics, which means that I study the interactions between human and natural systems. Broadly speaking, I am interested in questions like: 
+I am a postdoctoral researcher at the University of California, San Diego under the supervision of Prof. Francesco Paesani. My research revolves around the methodology development and application of quantum chemical methods, which either makes the traditional electronic structure theory more efficient or gives insights about different hysical and chemical properties. 
 
 - How do changes in environmental conditions affect the economy, and vice versa? 
 - How should societies manage their natural resources when they are faced with uncertainty? 
