@@ -20,7 +20,7 @@ title                    : "Saswata Dasgupta"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ph.D"
-description              : "albal balchal"
+description              : ""
 url                      : "https://quantumwinger.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "quantumwinger/quantumwinger" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,21 +93,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Saswata Dasgupta"
+  name             : "Postdoctoral reseracher"
   avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Theoretical chemistry researcher"
-  location         : "San Diego, CA"
+  bio              : "Theoretical and computational chemistry"
+  location         : "University of California, San Diego"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dasgupta.32@osu.edu"
+      url: "mailto:s1dasgupta@ucsd.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/quantum_winger"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/beingsaswata"
