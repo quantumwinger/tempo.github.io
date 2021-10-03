@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quantum, Football and etc"
+title                    : "Saswata Dasgupta"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Saswata Dasgupta"
+name                     : "Ph.D"
 description              : "albal balchal"
 url                      : "https://quantumwinger.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
