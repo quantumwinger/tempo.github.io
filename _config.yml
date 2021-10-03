@@ -111,12 +111,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/beingsaswata"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "http://orcid.org/0000-0001-7883-8573"
 
 # Site Footer
 footer:
