@@ -1,6 +1,5 @@
 ---
 title: Bio
-layout: post
 permalink: /bio/
 header:
   image:/assets/images/headshot.jpg
