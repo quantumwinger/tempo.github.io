@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio
-permalink: /bio/
+
 ---
 
 I hail from the Cape Winelands of South Africa. I attended the University of Cape Town for my Bachelor studies, graduating with double honours degrees in economics and business science.
