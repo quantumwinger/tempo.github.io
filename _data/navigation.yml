@@ -2,6 +2,8 @@
 main:
   - title: "Bio"
     url: https://quantumwinger.github.io/bio/
+  - title: "Publications"
+    url: https://quantumwinger.github.io/publications/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
