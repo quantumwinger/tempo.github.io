@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Saswata Dasgupta"
   avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Theoretical chemistry graduate student"
-  location         : "Columbus, OH"
+  bio              : "Theoretical chemistry researcher"
+  location         : "San Diego, CA"
   email            :
   links:
     - label: "Email"
